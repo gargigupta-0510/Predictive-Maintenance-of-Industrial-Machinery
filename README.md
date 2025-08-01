@@ -12,7 +12,7 @@ This project was completed as part of an internship with **Edunet Foundation** u
 - **IBM Cloud Object Storage** for storing datasets  
 - **IBM Watson Machine Learning** for model hosting and inference  
 
----
+<br>
 
 ## 🚀 Features
 
@@ -23,7 +23,7 @@ This project was completed as part of an internship with **Edunet Foundation** u
 - Integrates with IBM Cloud services for scalable deployment  
     
 
----
+<br>
 
 ## 🧰 Technologies Used
 
@@ -32,7 +32,7 @@ This project was completed as part of an internship with **Edunet Foundation** u
 - **IBM Watson Machine Learning**  
 - **IBM Cloud Object Storage**    
 
----
+<br>
 
 ## 📈 Model Workflow
 
@@ -43,7 +43,7 @@ This project was completed as part of an internship with **Edunet Foundation** u
 - Deploy using IBM Watson Machine Learning
 - Predict failure types from new real-time input data
 
----
+<br>
 
 ## 🌐 Use Case
 
@@ -53,10 +53,11 @@ Predictive maintenance helps industries reduce costs by avoiding unexpected fail
 - Automotive systems
 - Smart factories (Industry 4.0)
 
----
+<br>
 
 ## Acknowledgments
 
 - Edunet Foundation for providing mentorship and training
 - IBM Cloud for access to tools and cloud infrastructure
 
+---
